@@ -1,0 +1,58 @@
+.container{
+display:flex;
+flex-wrap:wrap;
+position: absolute;
+left: 20%;
+right: 20%;
+}
+.header{
+	background-image: url(keypen.jpg);
+	background-size: cover;
+	position: relative;
+}
+.blue
+{
+	background-color: skyblue;
+	height: 70px;
+	width: 20px;
+	margin-left: 10px;
+	position: relative;
+	top: 40px;
+	left: 30px;
+}
+.MARATHON
+{
+	min-width:97%;
+	height: 35%;
+    text-align:right;
+	background-color: yellow;
+	opacity: 1.0;
+	position:absolute;
+	left:100%;
+	top: 0px;
+	}
+.white
+{
+background-color:orangered;
+opacity: 0.7;
+width: fit-content;
+height: 600px;
+color: white;
+}
+.h1
+{
+	position: relative;
+	top:50px;
+	left:30px;
+	
+.logo2
+{
+	position: relative;
+	right: 200px;
+	bottom: 10px;
+}
+.black
+{
+	margin-left: 20px;
+	position: relative;
+}
